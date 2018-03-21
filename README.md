@@ -1,5 +1,9 @@
 # atlas-zwierząt
 
+==============URUCHOMIENIE APLIKACJI==============================
+
+Plik wykonywalny *.jar znajduje się w folderze dist. Aby uruchomić projekt niezbedna jest JAVA w wersji 8.
+
 ==============INFORMACJE WSTĘPNE O PROEJKCIE======================
 
 Projekt zaliczeniowy na przedmiot "programowanie obiektowe". Projekt miał polegać na wykonaniu 
