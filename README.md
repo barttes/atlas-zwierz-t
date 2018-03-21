@@ -24,10 +24,17 @@ z użyciem aplikacji SceneBuilder.
 =======================STRUKTURA PROJEKTU==========================
 
 -> src - pliki źródłowe aplikacji
+
 ---->atlasapp - główny program aplikacji uruchamiający główny kontroler "EdycjaWygladController.java"
+
 ---->model - klasy modelu aplikacji
+
 ---->util - klasy pomocnicze (m.in. zapisywanie, odczytywanie z pliku ..)
+
 ---->viem - pliki wyglądów *.fxml
+
+
 		
 -> dist - plik *.jar
+
 -> nbproject - pliki konfiguracyjne środowiska NetBeans
