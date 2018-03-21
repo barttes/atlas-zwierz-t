@@ -1,5 +1,5 @@
 build
-nbproject
-atlasApp.jnlp
-atlasApp.http
+dist/atlasApp.jnlp
+dist/atlasApp.html
 dist/web-files
+
